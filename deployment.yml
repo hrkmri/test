@@ -1,4 +1,3 @@
 template-file-path: template.yml
 parameters: {}
-tags:
-  auto-backup: 'true'
+tags: {}
